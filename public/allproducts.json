@@ -1,0 +1,223 @@
+[
+    {
+        "product_id": "L003",
+        "product_title": "Microsoft Surface Laptop Studio",
+        "product_image": "https://i.ibb.co.com/71V7v2h/10.webp",
+        "category": "Laptops",
+        "price": 1899,
+        "description": "Microsoft Surface Laptop Studio with versatile design and powerful performance.",
+        "specification": [
+            "14.4-inch PixelSense touchscreen",
+            "Intel Core i7 11th Gen",
+            "32GB RAM",
+            "1TB SSD",
+            "Surface Slim Pen 2 compatibility"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P001",
+        "product_title": "Apple iPhone 15 Pro Max",
+        "product_image": "https://i.ibb.co.com/6nHTg4S/1.jpg",
+        "category": "Smartphones",
+        "price": 1299,
+        "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+        "specification": [
+            "6.7-inch Super Retina XDR display",
+            "A17 Bionic chip",
+            "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+            "LiDAR Scanner",
+            "Up to 2TB storage"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "L001",
+        "product_title": "MacBook Pro 16-inch",
+        "product_image": "https://i.ibb.co.com/hdtMRdB/2.webp",
+        "category": "Laptops",
+        "price": 2399,
+        "description": "The MacBook Pro with M2 Max chip redefines performance and efficiency.",
+        "specification": [
+            "16-inch Liquid Retina XDR display",
+            "Apple M2 Max chip",
+            "32GB RAM",
+            "1TB SSD storage",
+            "Up to 21 hours battery life"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "H001",
+        "product_title": "Sony Wireless Headphones",
+        "product_image": "https://i.ibb.co.com/6mh4d8M/3.jpg",
+        "category": "Accessories",
+        "price": 349,
+        "description": "Industry-leading noise cancellation headphones with superior sound quality.",
+        "specification": [
+            "Industry-leading noise cancellation",
+            "30 hours battery life",
+            "Touch sensor controls",
+            "Built-in microphone for calls",
+            "Lightweight design"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "A001",
+        "product_title": "Apple AirPods Pro (2nd)",
+        "product_image": "https://i.ibb.co.com/dGshwQr/4.jpg",
+        "category": "Accessories",
+        "price": 249,
+        "description": "Enhanced audio quality with active noise cancellation and adaptive transparency.",
+        "specification": [
+            "Active noise cancellation",
+            "Adaptive transparency mode",
+            "MagSafe charging case",
+            "Personalized spatial audio",
+            "Sweat and water-resistant"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P002",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/sqg2WdD/5.jpg",
+        "category": "Smartphones",
+        "price": 1199,
+        "description": "Samsung Galaxy S23 Ultra with powerful performance and incredible camera capabilities.",
+        "specification": [
+            "6.8-inch QHD+ Dynamic AMOLED 2X display",
+            "Snapdragon 8 Gen 2",
+            "108MP Quad-camera system",
+            "Up to 1TB storage",
+            "5G capable"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "L002",
+        "product_title": "Dell XPS 13 Plus",
+        "product_image": "https://i.ibb.co.com/kxSXTMR/6.webp",
+        "category": "Laptops",
+        "price": 1599,
+        "description": "Dell XPS 13 Plus with an edge-to-edge display and enhanced performance.",
+        "specification": [
+            "13.4-inch InfinityEdge display",
+            "Intel Core i7 12th Gen",
+            "16GB RAM",
+            "512GB SSD storage",
+            "FHD+ resolution"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "H002",
+        "product_title": "Bose QuietComfort 45",
+        "product_image": "https://i.ibb.co.com/pjv88pL/7.jpg",
+        "category": "Accessories",
+        "price": 329,
+        "description": "Bose QuietComfort 45 with improved noise cancellation and comfortable design.",
+        "specification": [
+            "World-class noise cancellation",
+            "24 hours battery life",
+            "Quick charging",
+            "Comfortable design",
+            "Bluetooth connectivity"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "L006",
+        "product_title": "Asus ROG Zephyrus G14",
+        "product_image": "https://i.ibb.co.com/JC6Vz2d/c.png",
+        "category": "Laptops",
+        "price": 1899,
+        "description": "Asus ROG Zephyrus G14 with a powerful AMD Ryzen processor and dedicated graphics for gaming and content creation.",
+        "specification": [
+            "14-inch QHD display with 120Hz refresh rate",
+            "AMD Ryzen 9 processor",
+            "16GB RAM",
+            "1TB SSD storage",
+            "NVIDIA GeForce RTX 3060"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "A002",
+        "product_title": "Samsung Galaxy Buds 2 Pro",
+        "product_image": "https://i.ibb.co.com/wRFPWsb/8.jpg",
+        "category": "Accessories",
+        "price": 199,
+        "description": "Samsung Galaxy Buds 2 Pro with immersive sound and ergonomic design.",
+        "specification": [
+            "Active noise cancellation",
+            "Enhanced audio quality",
+            "Bluetooth 5.3",
+            "Ergonomic fit",
+            "Wireless charging"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P003",
+        "product_title": "Google Pixel 7 Pro",
+        "product_image": "https://i.ibb.co.com/7WK4v5q/Pixel-7-Pro-Hazel-6784.jpg",
+        "category": "Smartphones",
+        "price": 899,
+        "description": "Google Pixel 7 Pro with advanced AI features and a powerful camera.",
+        "specification": [
+            "6.7-inch LTPO OLED display",
+            "Google Tensor G2 chip",
+            "50MP triple-camera system",
+            "Adaptive battery",
+            "5G ready"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "L004",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co.com/MCQj5Zk/a.webp",
+        "category": "Laptops",
+        "price": 1499,
+        "description": "HP Spectre x360 with a stunning 4K display and powerful performance in a sleek, convertible design.",
+        "specification": [
+            "13.5-inch 4K OLED touch display",
+            "Intel Core i7 12th Gen",
+            "16GB RAM",
+            "1TB SSD storage",
+            "360-degree hinge for laptop and tablet modes"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "L005",
+        "product_title": "Lenovo ThinkPad X1",
+        "product_image": "https://i.ibb.co.com/ftKTNxr/b.webp",
+        "category": "Laptops",
+        "price": 1699,
+        "description": "Lenovo ThinkPad X1 Carbon Gen 10 with a lightweight design and enhanced security features for professionals.",
+        "specification": [
+            "14-inch FHD+ display",
+            "Intel Core i7 12th Gen",
+            "16GB RAM",
+            "512GB SSD storage",
+            "Fingerprint reader and webcam privacy shutter"
+        ],
+        "availability": true,
+        "rating": 4.6
+    }
+]
